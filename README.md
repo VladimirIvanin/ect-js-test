@@ -4,6 +4,8 @@
 
 Сайт шаблонизатора - [ectjs.com](http://ectjs.com/)
 
+[Простой пример](https://github.com/brainmurder/ect-test)
+
 ## Пример использования
 
 ### HTML
