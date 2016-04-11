@@ -90,52 +90,52 @@ $(function(){
   $data = {
     products: [
     {
-      title: "Товар 1",
-      img: "https://placeholdit.imgix.net/~text?txtsize=33&txt=product&w=240&h=240",
-      price: "2000 руб",
-      oldprice: "25000 руб",
+      title: 'Товар 1',
+      img: 'https://placeholdit.imgix.net/~text?txtsize=33&txt=product&w=240&h=240',
+      price: '2000 руб',
+      oldprice: '25000 руб',
       available: true,
-      sku: "123456"
+      sku: '123456'
     },
     {
-      title: "Товар 2",
-      img: "https://placeholdit.imgix.net/~text?txtsize=33&txt=product&w=240&h=240",
-      price: "1000 руб",
-      oldprice: "30000 руб",
+      title: 'Товар 2',
+      img: 'https://placeholdit.imgix.net/~text?txtsize=33&txt=product&w=240&h=240',
+      price: '1000 руб',
+      oldprice: '30000 руб',
       available: false,
-      sku: ""
+      sku: ''
     },
     {
-      title: "Товар 3",
-      img: "https://placeholdit.imgix.net/~text?txtsize=33&txt=product&w=240&h=240",
-      price: "1500 руб",
-      oldprice: "",
+      title: 'Товар 3',
+      img: 'https://placeholdit.imgix.net/~text?txtsize=33&txt=product&w=240&h=240',
+      price: '1500 руб',
+      oldprice: '',
       available: true,
-      sku: "456789"
+      sku: '456789'
     },
     {
-      title: "Товар 4",
-      img: "https://placeholdit.imgix.net/~text?txtsize=33&txt=product&w=240&h=240",
-      price: "2500 руб",
-      oldprice: "2000 руб",
+      title: 'Товар 4',
+      img: 'https://placeholdit.imgix.net/~text?txtsize=33&txt=product&w=240&h=240',
+      price: '2500 руб',
+      oldprice: '2000 руб',
       available: true,
-      sku: ""
+      sku: ''
     },
     {
-      title: "Товар 5",
-      img: "https://placeholdit.imgix.net/~text?txtsize=33&txt=product&w=240&h=240",
-      price: "1357 руб",
-      oldprice: "6000 руб",
+      title: 'Товар 5',
+      img: 'https://placeholdit.imgix.net/~text?txtsize=33&txt=product&w=240&h=240',
+      price: '1357 руб',
+      oldprice: '6000 руб',
       available: true,
-      sku: "456137"
+      sku: '456137'
     },
     {
-      title: "Товар 6",
-      img: "https://placeholdit.imgix.net/~text?txtsize=33&txt=product&w=240&h=240",
-      price: "1556 руб",
-      oldprice: "3500 руб",
+      title: 'Товар 6',
+      img: 'https://placeholdit.imgix.net/~text?txtsize=33&txt=product&w=240&h=240',
+      price: '1556 руб',
+      oldprice: '3500 руб',
       available: false,
-      sku: "124578"
+      sku: '124578'
     }
     ]
   };
